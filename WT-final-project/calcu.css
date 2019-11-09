@@ -1,0 +1,40 @@
+.wrap{
+	width: 372px;
+	margin:auto;
+	height: auto;
+	background-color: black;
+	padding: 15px;
+}
+input[type=text]{
+	width: 95%;
+	padding: 10px;
+	font-size: 22px;
+	margin-top: 20px;
+	border-radius: 5px;
+}
+input[type=button]{
+	width:90px;
+	padding: 10px;
+	font-size: 22px;
+	font-weight: bold;
+	border-radius: 5px;
+
+}
+#equal{
+	width: 182px;
+background-color:orange;
+
+}
+input[type=button]:hover
+{
+background-image:none;
+background-color:skyblue;
+border-radius: 15%;
+}
+#clr{
+background-color:yellow;
+}
+#del{
+background-color:red;
+
+}
